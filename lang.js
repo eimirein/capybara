@@ -1,4 +1,4 @@
-lang_list = ['english', 'russian']
+lang_list = ['russian', 'english']
 
 assets.russian = {
 	title: ['АльВиРити'],

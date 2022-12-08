@@ -188,7 +188,7 @@ body {
 #offer:hover #stack2 { transform: translateY(-5vmin) }
 #offer:hover #stack3 { transform: translateY(-9vmin) }
 .fxcard {
-	width: 43%; height: 30vmin; margin: auto 2%;
+	width: 40vmin; height: 30vmin; margin: 2vmin 2.5vmin;
 	background: #222; border-radius: 2vmin;
 	font: 400 calc(1.5vmin + 0.5vw) "Montserrat";
 	text-align: left; line-height: 1.6
