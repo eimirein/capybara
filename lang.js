@@ -142,9 +142,9 @@ assets.english = {
 	26: `<x style='font-weight: 600; color: var(--accent)'>E-mail:</x><br>
 	<x class='ref' onclick='href("mailto: AVorobyovS@ya.ru")'>AVorobyovS@ya.ru</x>`,
 	27: `<x style='font-weight: 600; color: var(--accent)'>Our socials:</x><br>
-	<x class='ref' onclick='href("https://vk.com/alvirity")'>https://vk.com/alvirity</x><br>
-	<x class='ref' onclick='href("https://vk.com/alvirity.studio")'>https://vk.com/alvirity.studio</x><br>
-	<x class='ref' onclick='href("https://t.me/generatorofthefuture")'>https://t.me/generatorofthefuture</x>`,
+	<x class='ref' onclick='href("https://vk.com/alvirity")'>vk.com/alvirity</x><br>
+	<x class='ref' onclick='href("https://vk.com/alvirity.studio")'>vk.com/alvirity.studio</x><br>
+	<x class='ref' onclick='href("https://t.me/generatorofthefuture")'>t.me/generatorofthefuture</x>`,
 	28: `<x style='font-weight: 600; color: var(--accent)'>Head quarters:</x><br>
 	<x class='ref' onclick='href("https://goo.gl/maps/qCFrD4rxLQt4912z9")'>Togliatti, st. Yuzhnoe Shosse, 163A b2/4, A316</x>`,
 	29: `I agree to the processing of personal data`,
