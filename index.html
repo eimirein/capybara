@@ -46,16 +46,16 @@
 			<div id='t10' class='title'></div>
 			<div class='arrow bgFill' style='transform: rotate(90deg)' onclick="slide('proj', 'R')"></div>
 			<div class='proj flexH nosel' id='proj1'>
-				<div class='center' style='background-image: url("assets/b2-1.webp")' onclick="slide('page', 3); href('#p3b1')"><p>＞</p></div>
-				<div class='center' style='background-image: url("assets/b2-2.webp")' onclick="slide('page', 3); href('#p3b2')"><p>＞</p></div>
-				<div class='center' style='background-image: url("assets/b2-3.webp")' onclick="slide('page', 3); href('#p3b3')"><p>＞</p></div>
-				<div class='center' style='background-image: url("assets/b2-4.webp")' onclick="slide('page', 3); href('#p3b4')"><p>＞</p></div>
+				<div class='center' style='background-image: url("assets/b2-1.webp")' onclick="slide('page', 3); scroll_top()"><p>＞</p></div>
+				<div class='center' style='background-image: url("assets/b2-2.webp")' onclick="slide('page', 3); scroll_top()"><p>＞</p></div>
+				<div class='center' style='background-image: url("assets/b2-3.webp")' onclick="slide('page', 3); scroll_top()"><p>＞</p></div>
+				<div class='center' style='background-image: url("assets/b2-4.webp")' onclick="slide('page', 3); scroll_top()"><p>＞</p></div>
 			</div>
 			<div class='proj slided flexH nosel' id='proj2'>
-				<div class='center' style='background-image: url("assets/b2-5.webp")' onclick="slide('page', 3); href('#p3b5')"><p>＞</p></div>
-				<div class='center' style='background-image: url("assets/b2-6.webp")' onclick="slide('page', 3); href('#p3b6')"><p>＞</p></div>
-				<div class='center' style='background-image: url("assets/b2-7.webp")' onclick="slide('page', 3); href('#p3b7')"><p>＞</p></div>
-				<div class='center' style='background-image: url("assets/b2-8.webp")' onclick="slide('page', 3); href('#p3b8')"><p>＞</p></div>
+				<div class='center' style='background-image: url("assets/b2-5.webp")' onclick="slide('page', 3); scroll_top()"><p>＞</p></div>
+				<div class='center' style='background-image: url("assets/b2-6.webp")' onclick="slide('page', 3); scroll_top()"><p>＞</p></div>
+				<div class='center' style='background-image: url("assets/b2-7.webp")' onclick="slide('page', 3); scroll_top()"><p>＞</p></div>
+				<div class='center' style='background-image: url("assets/b2-8.webp")' onclick="slide('page', 3); scroll_top()"><p>＞</p></div>
 			</div>
 		</div>
 		
@@ -69,7 +69,7 @@
 				<div class='svc bgFill' style='background-image: url("assets/b3-5.webp")'> <div class='fill center'><p id='t16'></p></div> </div>
 			</div>
 			<div class='break'></div>
-			<div class='i badge center' style='margin-top: -2vmin' onclick="slide('page', 2)"><p id='t17'></p></div>
+			<div class='i badge center' style='margin-top: -2vmin' onclick="slide('page', 2); scroll_top()"><p id='t17'></p></div>
 		</div>
 		
 		<div id='team' class='block bounded center'>
@@ -98,7 +98,7 @@
 		<div id='contacts' class='block bounded center' style="border-radius: 0; width: 100vw; min-height: 80vmin; margin-bottom: 10vmin">
 			<div id='t24' class='title'></div>
 			<div class='break'></div>
-			<div class='frameX' style='width: 45vw; height: 70vmin; margin: 3vmin auto auto auto'><div>
+			<div class='frameX' style='width: 80vmin; height: 70vmin; margin: 3vmin auto auto auto'><div>
 				<form action="?">
 					<input class='fxB' type="text" id="Name" placeholder='　* Ваше имя / Your name' required
 							oninvalid="this.setCustomValidity('Пожалуйста, заполните данное поле.')" oninput="this.setCustomValidity('')">
@@ -109,7 +109,7 @@
 					<div class='center' style='width: 80%; margin: auto'>
 						<input id='box' type="checkbox" style='display: none' required oninvalid="this.setCustomValidity('Пожалуйста, подтвердите текущее действие.')">
 						<label id='check' for='box' class="fxB"></label>
-						<p id='t29' style='margin: auto 2vmin; width: 25vw'></p>
+						<p id='t29' style='margin: auto 2vmin; width: 50vmin'></p>
 					</div>
 					<input class='text badgeX' type="submit" value="Отправить / Submit" style='margin: 3vmin auto auto auto; height: 7vmin'>
 				</form>

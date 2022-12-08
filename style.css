@@ -129,7 +129,7 @@ body {
 }
 .frameX div {
 	width: 98%; height: 98%;
-	margin: auto; background: #222;
+	margin: auto; background: #111;
 	border-radius: 3vmin;
 }
 
@@ -188,9 +188,10 @@ body {
 #offer:hover #stack2 { transform: translateY(-5vmin) }
 #offer:hover #stack3 { transform: translateY(-9vmin) }
 .fxcard {
-	width: 40vmin; height: 30vmin; margin: 2vmin 2.5vmin;
+	width: 40vmin; height: 30vmin;
+	margin: 2vmin 2.5vmin;
 	background: #222; border-radius: 2vmin;
-	font: 400 calc(1.5vmin + 0.5vw) "Montserrat";
+	font: var(--fontSub);
 	text-align: left; line-height: 1.6
 }
 .fxcard p { padding: 1.5vmin; overflow-wrap: break-word }
@@ -215,7 +216,7 @@ body {
 input {
 	border-radius: 1vmin;
 	width: 90%; max-width: 80%;
-	height: 5vmin; background: #444;
+	height: 5vmin; background: #222;
 	display: flex; flex-wrap: wrap;
 	justify-content: center;
 	outline: none; margin: 3vmin auto;
@@ -298,7 +299,7 @@ input {
 	display: block; text-align: left;
 	padding: 5vmin 3vmin;
 	font: var(--fontSub); font-weight: 400;
-	letter-spacing: 1.1; line-height: 1.2
+	letter-spacing: 1.1; line-height: 1.4
 }
 .p3bh {
 	margin: 0; background: var(--accent);
