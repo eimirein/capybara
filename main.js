@@ -63,6 +63,9 @@ function langs(name) {
 	}
 	if (emi('lang')) { emi('lang').innerHTML = lang.toUpperCase() }
 	emi('html').lang = lang
+	// This document's addition
+	if (emi('html').lang == 'russian') { cdata('p3tC', '© АльВиРити - 2022  |  Все права защищены') }
+	else if (emi('html').lang == 'english') { cdata('p3tC', '© Alvirity - 2022  |  All rights reserved') }
 }
 // Set/change CSS variable
 function pattern(CSSVar, val) { document.documentElement.style.setProperty('--'+CSSVar, val) }
@@ -137,6 +140,13 @@ function mk(root_id, html_or_array) {
 			}
 		} else { root.innerHTML = root.innerHTML + html_or_array }
 	} else { log('mk :: Root element with id ['+root_id+'] does not exist', 1) }
+}
+// Change innerHTML data of a class
+function cdata(_class, _data) {
+	var items = document.getElementsByClassName(_class), i, len
+	for (i = 0, len = items.length; i < len; i++) {
+		items[i].innerHTML = _data
+	}
 }
 
 // Animate an element, optionally add a second animation and set an interval

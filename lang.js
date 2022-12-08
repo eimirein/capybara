@@ -93,7 +93,6 @@ assets.russian = {
 		14: `Сайт создавался опытными дизайнерам для многоуважаемого Адвоката «Ольги Русяевой».`,
 		15: `Сайт «Центр кадастровой оценки<br>Липецкой области»`,
 		16: `Сайт разрабатывался для «Центра кадастровой оценки Липецкой области».`,
-		C: `© АльВиРити - 2022  |  Все права защищены`
 	},
 	fooP: {
 		1: 'Резидент Технопарка Жигулёвская долина',
@@ -196,7 +195,6 @@ assets.english = {
 		14: `The site was created by experienced designers for the esteemed lawyer Olga Rusyaeva.`,
 		15: `«Cadastral Valuation Center of the Lipetsk Region» Website`,
 		16: `This website was developed for «Cadastral Valuation Center of the Lipetsk Region».`,
-		C: `© Alvirity - 2022  |  All rights reserved`
 	},
 	fooP: {
 		1: 'Resident of the Zhigulevskaya Dolina',
