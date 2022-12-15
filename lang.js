@@ -12,7 +12,7 @@ assets.russian = {
 	6: `Контакты`,
 	7: `Позвонить`,
 	8: `ИНТЕРНЕТ ПРОЕКТЫ`,
-	9: `От идеи до реализации<br><br>Разрабатываем и реализовываем для Вас самые смелые решения программного обеспечения IT индустрии`,
+	9: `От идеи до реализации<br><br>Разрабатываем и реализовываем для Вас самые смелые решения программного обеспечения ИТ индустрии`,
 	10: `Открой для себя наши коллекции`,
 	11: `Самые популярные услуги`,
 	12: `Создание сайта`,
@@ -75,27 +75,28 @@ assets.russian = {
 	p3t: {
 	0: `Наше Портфолио`,
 	1: `Сайт АльВиРити Studio`,
-	2: `Представляем вашему вниманию один из сайтов IT компании «АльВиРити».<br><br>
+	2: `Представляем вашему вниманию один из сайтов ИТ компании «АльВиРити».<br><br>
 	Представленный сайт позволит вам ознакомится поближе со спецификой работы компании, 
 	и так же вы получите возможность познакомится со всеми членами дружной команды «АльВиРити».`,
 	3: `Сайт АльВиРити VR/AVR`,
-	4: `Представляем вашему вниманию второй сайт нашей IT компании.<br><br>
-	На сайте вы можете заказать комплект оказываемых услуг.`,
+	4: `Представляем вашему вниманию второй сайт нашей ИТ компании.<br><br>
+	На сайте вы можете заказать комплект услуг по созданию приложений для виртуальной и дополненной реальности.`,
 	5: `Сайт руководителя компании «Алексея Воробьева»`,
-	6: `Данный сайт создавался лично для руководителя IT компании «АльВиРити», Алексея Воробьева.<br><br>
+	6: `Данный сайт создавался лично для руководителя ИТ компании «АльВиРити», Алексея Воробьева.<br><br>
 	На сайте вы можете познакомиться с его автобиографией.`,
 	7: `Сайт компании «ТИС»`,
 	8: `Сайт для компании ООО «ТИС».<br><br>
-	Данная компания занимается производством качественных уплотнений и пластин для пластичных теплообменников.`,
-	9: `Авиа-риэлтор, Черногория`,
+	Данная компания занимается производством качественных уплотнителей и пластичных теплообменников.`,
+	9: `Avia-realtor, Montenegro`,
 	10: `Cайт разрабатывался компанией, занимающейся оформлением вида на жительство и покупкой недвижимости в Черногории и Турции.`,
 	11: `Сайт фитнес-центра «NEO»`,
 	12: `Сайт для фитнес центра «NEO» разработан по заказу технопарка в сфере высоких технологий "Жигулёвская долина".<br><br>
-	Мы также внедрили ПО для автоматизации администрационных процессов компании.`,
+	Мы также внедрили ПО для автоматизации администрационных процессов компании, что, в свою очередь, позволит заменить 
+	администраторов спортивных залов, комплексов и других отраслей, на искусственный интеллект.`,
 	13: `Сайт по оказанию адвокатских услуг`,
-	14: `Сайт создавался опытными дизайнерам для многоуважаемого адвоката Русяевой Ольги Александровны.`,
+	14: `Сайт создан опытными дизайнерам для многоуважаемого адвоката Русяевой Ольги Александровны.`,
 	15: `Сайт «Центр кадастровой оценки<br>Липецкой области»`,
-	16: `Сайт разрабатывался для «Центра кадастровой оценки Липецкой области».`,
+	16: `Сайт разработан для «Центра кадастровой оценки Липецкой области».`,
 	},
 }
 
@@ -142,9 +143,9 @@ assets.english = {
 	26: `<x style='font-weight: 600; color: var(--accent)'>E-mail:</x><br>
 	<x class='ref' onclick='href("mailto: AVorobyovS@ya.ru")'>AVorobyovS@ya.ru</x>`,
 	27: `<x style='font-weight: 600; color: var(--accent)'>Our socials:</x><br>
-	<x class='ref' onclick='href("https://vk.com/alvirity")'>vk.com/alvirity</x><br>
-	<x class='ref' onclick='href("https://vk.com/alvirity.studio")'>vk.com/alvirity.studio</x><br>
-	<x class='ref' onclick='href("https://t.me/generatorofthefuture")'>t.me/generatorofthefuture</x>`,
+	<x class='ref' onclick='href("https://vk.com/alvirity")'>https://vk.com/alvirity</x><br>
+	<x class='ref' onclick='href("https://vk.com/alvirity.studio")'>https://vk.com/alvirity.studio</x><br>
+	<x class='ref' onclick='href("https://t.me/generatorofthefuture")'>https://t.me/generatorofthefuture</x>`,
 	28: `<x style='font-weight: 600; color: var(--accent)'>Head quarters:</x><br>
 	<x class='ref' onclick='href("https://goo.gl/maps/qCFrD4rxLQt4912z9")'>Togliatti, st. Yuzhnoe Shosse, 163A b2/4, A316</x>`,
 	29: `I agree to the processing of personal data`,
@@ -178,18 +179,19 @@ assets.english = {
 	and also you will get the opportunity to get acquainted with all the members of the friendly team «AlViRity».`,
 	3: `Alvirity VR/AVR website`,
 	4: `We present to your attention the second site of our IT company.<br><br>
-	On the website you can order a set of services provided.`,
+	On the website you can order a set of virtual/augmented reality application development services.`,
 	5: `Website of the company founder, Alexey Vorobyov`,
 	6: `This website was created personally for the founder of the «AlViRity» company, Alexey Vorobyov.<br><br>
 	On the website you can get acquainted with his autobiography.`,
 	7: `«ТИС» Company website`,
 	8: `Website for «ТИС» LLL.<br><br>
-	This company is engaged in the production of high-quality seals and plates for plastic heat exchangers.`,
+	This company is engaged in the production of high-quality seals and plastic heat exchangers.`,
 	9: `Avia-realtor, Montenegro`,
 	10: `The site was developed by a company engaged in obtaining a residence permit and buying real estate in Montenegro and Turkey.`,
 	11: `«NEO» Fitness center website`,
 	12: `Website for the fitness center «NEO».<br>Developed by order of the technopark in the field of high technologies «Zhigulevskaya Dolina».
-	<br><br>We have also implemented software to automate the company's administrative processes.`,
+	<br><br>We have also implemented software to automate the company's administrative processes, which, in turn, will replace the 
+	administrators of sports halls, complexes and other areas, with artificial intelligence`,
 	13: `Lawyer services website`,
 	14: `The site was created by experienced designers for the esteemed lawyer Rusyaeva Olga Aleksandrovna.`,
 	15: `«Cadastral Valuation Center of the Lipetsk Region» Website`,
