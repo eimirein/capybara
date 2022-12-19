@@ -2,8 +2,9 @@
 	<head id='core'> <meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<link rel="icon" type="image/x-icon" href="assets/icon.ico">
-		<title id="title0">Alvirity::main</title>
+		<title id="title0">Alvirity</title>
 		<link rel="stylesheet" href="style.css">
+		<script src="https://www.google.com/recaptcha/api.js?hl=ru" async defer></script>
 	</head>
 	
 	<body id='body' onload="init(); langs(); slide('proj', 'R', 2); slide('staff', 'R', 2); slide('page', 'R', 3)" tabIndex=0 onclick>
@@ -16,7 +17,7 @@
 				<p id='lang' class='ref' onclick='langs()' style='margin: auto 11vw auto auto'></p>
 			</div>
 			<div class='center' style='flex: 0.75; background: #000a'>
-				<div id='logo' class='bgCont'></div>
+				<div id='logo' class='bgCont' onclick="slide('page', 1)"></div>
 				<div id='topmenu' class='i center'>
 					<p id='t1'></p>
 					<a id='t2' class='ref' onclick="slide('page', 1)" href="#offer"></a>
@@ -98,7 +99,13 @@
 		<div id='contacts' class='block bounded center' style="border-radius: 0; width: 100vw; min-height: 80vmin; margin-bottom: 10vmin">
 			<div id='t24' class='title'></div>
 			<div class='break'></div>
-			<div class='frameX' style='width: 80vmin; height: 70vmin; margin: 3vmin auto auto auto'><div>
+			<div class='center' style='width: 100%; margin: 3vmin 0'>
+				<div class='fxcard fxA'> <div class='fxicon bgCont' style='background-image: url("assets/b6-1.webp")'></div> <p id='t25'></p> </div>
+				<div class='fxcard fxA'> <div class='fxicon bgCont' style='background-image: url("assets/b6-2.webp")'></div> <p id='t26'></p> </div>
+				<div class='fxcard fxB'> <div class='fxicon bgCont' style='background-image: url("assets/b6-3.webp")'></div> <p id='t27'></p> </div>
+				<div class='fxcard fxB'> <div class='fxicon bgCont' style='background-image: url("assets/b6-4.webp")'></div> <p id='t28'></p> </div>
+			</div>
+			<div class='frameX' style='width: 80vmin; min-height: 80vmin; margin: 2vmin auto'><div>
 				<form action="?">
 					<input class='fxB' type="text" id="Name" placeholder='　* Ваше имя / Your name' required
 							oninvalid="this.setCustomValidity('Пожалуйста, заполните данное поле.')" oninput="this.setCustomValidity('')">
@@ -108,18 +115,12 @@
 					<input class='fxB' type="text" id="Message" placeholder='　Ваше сообщение / Your message' style='height: 14vmin'>
 					<div class='center' style='width: 80%; margin: auto'>
 						<input id='box' type="checkbox" style='display: none' required oninvalid="this.setCustomValidity('Пожалуйста, подтвердите текущее действие.')">
-						<label id='check' for='box' class="fxB"></label>
-						<p id='t29' style='margin: auto 2vmin; width: 50vmin'></p>
+						<label id='check' for='box' class="fxB"></label> <p id='t29' style='margin: auto 2vmin; width: 50vmin'></p>
 					</div>
-					<input class='text badgeX' type="submit" value="Отправить / Submit" style='margin: 3vmin auto auto auto; height: 7vmin'>
+					<div class='i g-recaptcha' data-sitekey="your_site_key" style='margin: 2vmin 0; transform: var(--gcap)'></div>
+					<input class='text badgeX' type="submit" value="Отправить / Submit" style='margin: 3vmin auto; height: 7vmin'>
 				</form>
 			</div></div>
-			<div class='center' style='width: 100%; margin: 3vmin 0'>
-				<div class='fxcard fxA'> <div class='fxicon bgCont' style='background-image: url("assets/b6-1.webp")'></div> <p id='t25'></p> </div>
-				<div class='fxcard fxA'> <div class='fxicon bgCont' style='background-image: url("assets/b6-2.webp")'></div> <p id='t26'></p> </div>
-				<div class='fxcard fxB'> <div class='fxicon bgCont' style='background-image: url("assets/b6-3.webp")'></div> <p id='t27'></p> </div>
-				<div class='fxcard fxB'> <div class='fxicon bgCont' style='background-image: url("assets/b6-4.webp")'></div> <p id='t28'></p> </div>
-			</div>
 		</div>
 		
 		<div id='p3cred' class='center'><p class='p3tC'></p></div>
@@ -161,19 +162,19 @@
 				<p class='p3tX' id='p3t6'></p> <div class='p3bf center nosel' onclick='href("https://asvorobyov.ru", 1)'><p>asvorobyov.ru</p></div> </div>
 
 			<div id='p3b1' class='p3b bounded'> <div class='p3bh center nosel'><p id='p3t7'></p></div> <div class='p3bi bgCont' style="background-image: url('assets/p3i4.webp')"></div>
-				<p class='p3tX' id='p3t8'></p> <div class='p3bf center nosel' onclick=''><p>---</p></div> </div>
+				<p class='p3tX' id='p3t8'></p> <div class='p3bf center nosel' onclick='href("https://tiservice.ru/", 1)'><p>tiservice.ru</p></div> </div>
 
 			<div id='p3b1' class='p3b bounded'> <div class='p3bh center nosel'><p id='p3t9'></p></div> <div class='p3bi bgCont' style="background-image: url('assets/p3i5.webp')"></div>
-				<p class='p3tX' id='p3t10'></p> <div class='p3bf center nosel' onclick=''><p>---</p></div> </div>
+				<p class='p3tX' id='p3t10'></p> <div class='p3bf center nosel' onclick=''><p>(out of service)</p></div> </div>
 
 			<div id='p3b1' class='p3b bounded'> <div class='p3bh center nosel'><p id='p3t11'></p></div> <div class='p3bi bgCont' style="background-image: url('assets/p3i6.webp')"></div>
-				<p class='p3tX' id='p3t12'></p> <div class='p3bf center nosel' onclick=''><p>---</p></div> </div>
+				<p class='p3tX' id='p3t12'></p> <div class='p3bf center nosel' onclick='href("https://fitnessneo.ru/", 1)'><p>fitnessneo.ru</p></div> </div>
 
 			<div id='p3b1' class='p3b bounded'> <div class='p3bh center nosel'><p id='p3t13'></p></div> <div class='p3bi bgCont' style="background-image: url('assets/p3i7.webp')"></div>
 				<p class='p3tX' id='p3t14'></p> <div class='p3bf center nosel' onclick='href("https://advocate-pro.ru", 1)'><p>advocate-pro.ru</p></div> </div>
 
 			<div id='p3b1' class='p3b bounded'> <div class='p3bh center nosel'><p id='p3t15'></p></div> <div class='p3bi bgCont' style="background-image: url('assets/p3i8.webp')"></div>
-				<p class='p3tX' id='p3t16'></p> <div class='p3bf center nosel' onclick=''><p>---</p></div> </div>
+				<p class='p3tX' id='p3t16'></p> <div class='p3bf center nosel' onclick='href("https://cko48.ru/", 1)'><p>cko48.ru</p></div> </div>
 
 			<div id='p3cred' class='center'><p class='p3tC'></p></div>
 		</div>

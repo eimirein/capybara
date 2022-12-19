@@ -12,7 +12,7 @@ assets.russian = {
 	6: `Контакты`,
 	7: `Позвонить`,
 	8: `ИНТЕРНЕТ ПРОЕКТЫ`,
-	9: `От идеи до реализации<br><br>Разрабатываем и реализовываем для Вас самые смелые решения программного обеспечения ИТ индустрии`,
+	9: `От идеи до реализации<br><br>Разрабатываем и реализовываем для Вас самые смелые решения программного обеспечения IT индустрии`,
 	10: `Открой для себя наши коллекции`,
 	11: `Самые популярные услуги`,
 	12: `Создание сайта`,
@@ -32,7 +32,9 @@ assets.russian = {
 	Я и моя команда занимаемся разработкой программного обеспечения от обычных сайтов 
 	до полноценных автоматизированных информационных систем.<br>Также создаем приложения для VR/AR.<br><br>Рады партнерам и инвесторам.`,
 	21: `<x style='font: var(--fontTitle)'>Тимур Акчурин</x><br>
-	<x style='font: var(--fontSub)'>Дизайнер</x><br><br>Всем привет, меня зовут Тимур и я в пиджаке. `,
+	<x style='font: var(--fontSub)'>Дизайнер</x><br><br>
+	Я разработаю самый крутой дизайн с учетом ваших пожеланий, в совокупности с индивидуальным подходом. 
+	Гарантирую качественный результат в нашем исполнении!`,
 	22: `ПОЛУЧИТЕ ПОДРОБНОЕ КОММЕРЧЕСКОЕ ПРЕДЛОЖЕНИЕ`,
 	23: `Рассчитать стоимость`,
 	24: `Свяжитесь с нами`,
@@ -74,25 +76,22 @@ assets.russian = {
 	},
 	p3t: {
 	0: `Наше Портфолио`,
-	1: `Сайт АльВиРити Studio`,
-	2: `Представляем вашему вниманию один из сайтов ИТ компании «АльВиРити».<br><br>
-	Представленный сайт позволит вам ознакомится поближе со спецификой работы компании, 
-	и так же вы получите возможность познакомится со всеми членами дружной команды «АльВиРити».`,
+	1: `Сайт АльВиРити Студия`,
+	2: `Сайт познакомит Вас со спецификой работы компании "АльВиРити" в сфере веб-разработки, мобильного ПО и интернет-маркетинга.`,
 	3: `Сайт АльВиРити VR/AVR`,
 	4: `Представляем вашему вниманию второй сайт нашей ИТ компании.<br><br>
 	На сайте вы можете заказать комплект услуг по созданию приложений для виртуальной и дополненной реальности.`,
-	5: `Сайт руководителя компании «Алексея Воробьева»`,
-	6: `Данный сайт создавался лично для руководителя ИТ компании «АльВиРити», Алексея Воробьева.<br><br>
+	5: `Сайт руководителя компании`,
+	6: `Сайт разработан для директора ИТ компании "АльВиРити" Алексея Сергеевича Воробьева.<br><br>
 	На сайте вы можете познакомиться с его автобиографией.`,
 	7: `Сайт компании «ТИС»`,
-	8: `Сайт для компании ООО «ТИС».<br><br>
-	Данная компания занимается производством качественных уплотнителей и пластичных теплообменников.`,
-	9: `Avia-realtor, Montenegro`,
+	8: `Корпоративный сайт с элементами маркетплейса, разработан для ООО "ТИС".<br><br>
+	Торговый индустриальный сервис занимается производством качественных уплотнителей и пластинчатых теплообменников.`,
+	9: `Авиа-риэлтор, Черногория`,
 	10: `Cайт разрабатывался компанией, занимающейся оформлением вида на жительство и покупкой недвижимости в Черногории и Турции.`,
 	11: `Сайт фитнес-центра «NEO»`,
-	12: `Сайт для фитнес центра «NEO» разработан по заказу технопарка в сфере высоких технологий "Жигулёвская долина".<br><br>
-	Мы также внедрили ПО для автоматизации администрационных процессов компании, что, в свою очередь, позволит заменить 
-	администраторов спортивных залов, комплексов и других отраслей, на искусственный интеллект.`,
+	12: `Сайт для фитнес центра "NEO" разработан с целью замены администратора на терминал с программным обеспечением, 
+	автоматизирующим работу администратора. ПО оптимизировано для спортивных комплексов, отелей и прочих отраслей в сфере оказания услуг.`,
 	13: `Сайт по оказанию адвокатских услуг`,
 	14: `Сайт создан опытными дизайнерам для многоуважаемого адвоката Русяевой Ольги Александровны.`,
 	15: `Сайт «Центр кадастровой оценки<br>Липецкой области»`,
@@ -180,18 +179,17 @@ assets.english = {
 	3: `Alvirity VR/AVR website`,
 	4: `We present to your attention the second site of our IT company.<br><br>
 	On the website you can order a set of virtual/augmented reality application development services.`,
-	5: `Website of the company founder, Alexey Vorobyov`,
-	6: `This website was created personally for the founder of the «AlViRity» company, Alexey Vorobyov.<br><br>
+	5: `Company founder website`,
+	6: `Website was developed for the founder of the «AlViRity» company, Alexey Sergeevich Vorobyov.<br><br>
 	On the website you can get acquainted with his autobiography.`,
 	7: `«ТИС» Company website`,
-	8: `Website for «ТИС» LLL.<br><br>
-	This company is engaged in the production of high-quality seals and plastic heat exchangers.`,
+	8: `Corporate website with marketplace elements, designed for LLC "TIS".<br><br>
+	Trade Industrial Service is engaged in the production of quality seals and plate heat exchangers.`,
 	9: `Avia-realtor, Montenegro`,
 	10: `The site was developed by a company engaged in obtaining a residence permit and buying real estate in Montenegro and Turkey.`,
 	11: `«NEO» Fitness center website`,
-	12: `Website for the fitness center «NEO».<br>Developed by order of the technopark in the field of high technologies «Zhigulevskaya Dolina».
-	<br><br>We have also implemented software to automate the company's administrative processes, which, in turn, will replace the 
-	administrators of sports halls, complexes and other areas, with artificial intelligence`,
+	12: `Website for the fitness center "NEO" is designed to replace the administrator with a terminal with software that automates the work 
+	of the administrator. The software is optimized for sports complexes, hotels and other service industries.`,
 	13: `Lawyer services website`,
 	14: `The site was created by experienced designers for the esteemed lawyer Rusyaeva Olga Aleksandrovna.`,
 	15: `«Cadastral Valuation Center of the Lipetsk Region» Website`,

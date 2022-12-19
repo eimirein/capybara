@@ -306,6 +306,7 @@ function init() {
 			pattern('fontBtn', "500 2.6vmin 'Montserrat'")
 			pattern('fontHead', "400 1.7vmin 'Montserrat'")
 			pattern('logoW', '18vw'); pattern('topM', '10vw')
+			pattern('gcap', "none")
 		},
 		function(){ // mobile
 			pattern('fontMain', "400 2vmin 'Montserrat'")
@@ -314,6 +315,7 @@ function init() {
 			pattern('fontBtn', "500 2.6vmin 'Montserrat'")
 			pattern('fontHead', "400 1.7vmin 'Montserrat'")
 			pattern('logoW', '26vw'); pattern('topM', '4vw')
+			pattern('gcap', "scale(0.75) translateX(-14vmin)")
 		}
 	)
 }
