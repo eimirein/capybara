@@ -32,7 +32,7 @@ assets.russian = {
 	Я и моя команда занимаемся разработкой программного обеспечения от обычных сайтов 
 	до полноценных автоматизированных информационных систем.<br>Также создаем приложения для VR/AR.<br><br>Рады партнерам и инвесторам.`,
 	21: `<x style='font: var(--fontTitle)'>Тимур Акчурин</x><br>
-	<x style='font: var(--fontSub)'>Дизайнер</x><br><br>Добрый день, меня зовут Тимур и я в пиджаке.<br>
+	<x style='font: var(--fontSub)'>Дизайнер</x><br><br>Добрый день, меня зовут Тимур и я в пиджаке.<br><br>
 	Я разработаю самый крутой дизайн с учетом ваших пожеланий, в совокупности с индивидуальным подходом. 
 	Гарантирую качественный результат в нашем исполнении!`,
 	22: `ПОЛУЧИТЕ ПОДРОБНОЕ КОММЕРЧЕСКОЕ ПРЕДЛОЖЕНИЕ`,
@@ -131,7 +131,7 @@ assets.english = {
 	Me and my team are engaged in software development from ordinary websites to full-fledged 
 	automated information systems.<br>We also create VR/AR applications.<br><br>We welcome partners and investors.`,
 	21: `<x style='font: var(--fontTitle)'>Timur Akchurin</x><br>
-	<x style='font: var(--fontSub)'>Designer</x><br><br>Good day, my name is Timur and I wear a suit.<br>
+	<x style='font: var(--fontSub)'>Designer</x><br><br>Good day, my name is Timur and I wear a suit.<br><br>
 	I will develop the coolest design, taking into account your wishes, combined with an individual approach. I guarantee a quality result in our performance!`,
 	22: `GET A DETAILED COMMERCIAL OFFER`,
 	23: `Calculate the price`,
