@@ -56,7 +56,7 @@ assets.russian = {
 	},
 	p2t: {
 	0: `<x style='font: var(--fontTitle)'>Что мы можем предложить</x><br><br>
-	«АльВиРити» имеет опыт в сферах:<br>VR разработки, ПО, веб-сайтов, мобильных приложений, графического дизайна, маркетинге.`,
+	Команда «АльВиРити» имеет опыт в сферах:<br>VR разработки, ПО, веб-сайтов, мобильных приложений, графического дизайна, интернет-маркетинга.`,
 	1: `VR/AR разработка`,
 	2: `Наши специалисты создадут для вас лучший проект в области виртуальной и дополненной реальности`,
 	3: `Мобильные приложения`,
@@ -82,7 +82,7 @@ assets.russian = {
 	4: `Представляем вашему вниманию второй сайт нашей ИТ компании.<br><br>
 	На сайте вы можете заказать комплекс услуг по созданию приложений для виртуальной и дополненной реальности.`,
 	5: `Сайт руководителя компании`,
-	6: `Сайт разработан для директора ИТ компании "АльВиРити" Алексея Сергеевича Воробьева.<br><br>
+	6: `Сайт разработан для директора ИТ компании "АльВиРити" - Алексея Сергеевича Воробьева.<br><br>
 	На сайте вы можете познакомиться с его автобиографией.`,
 	7: `Сайт компании «ТИС»`,
 	8: `Корпоративный сайт с элементами маркетплейса, разработан для ООО "ТИС".<br><br>
@@ -154,7 +154,7 @@ assets.english = {
 	},
 	p2t: {
 	0: `<x style='font: var(--fontTitle)'>What do we offer</x><br><br>
-	«AlViRity» has experience in the following fields:<br>VR development, software, websites, mobile applications, graphic design, marketing.`,
+	The team «AlViRity» has experience in the following fields:<br>VR development, software, websites, mobile applications, graphic design, internet-marketing.`,
 	1: `VR/AR Apps`,
 	2: `Our experts will create for you the best project in the field of virtual and augmented reality.`,
 	3: `Mobile Apps`,
