@@ -80,7 +80,7 @@ assets.russian = {
 	2: `Сайт познакомит Вас со спецификой работы компании "АльВиРити" в сфере веб-разработки, мобильного ПО и интернет-маркетинга.`,
 	3: `Сайт АльВиРити VR/AVR`,
 	4: `Представляем вашему вниманию второй сайт нашей ИТ компании.<br><br>
-	На сайте вы можете заказать комплект услуг по созданию приложений для виртуальной и дополненной реальности.`,
+	На сайте вы можете заказать комплекс услуг по созданию приложений для виртуальной и дополненной реальности.`,
 	5: `Сайт руководителя компании`,
 	6: `Сайт разработан для директора ИТ компании "АльВиРити" Алексея Сергеевича Воробьева.<br><br>
 	На сайте вы можете познакомиться с его автобиографией.`,
@@ -174,9 +174,7 @@ assets.english = {
 	p3t: {
 	0: `Our portfolio`,
 	1: `Alvirity Studio website`,
-	2: `We present to your attention one of the sites of the IT company «AlViRity».<br><br>
-	The presented website will allow you to get acquainted with the specifics of the company's work, 
-	and also you will get the opportunity to get acquainted with all the members of the friendly team «AlViRity».`,
+	2: `The site will introduce you to the specifics of AlViRiti's work in web development, mobile software and Internet marketing.`,
 	3: `Alvirity VR/AVR website`,
 	4: `We present to your attention the second site of our IT company.<br><br>
 	On the website you can order a set of virtual/augmented reality application development services.`,
