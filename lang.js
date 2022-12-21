@@ -80,20 +80,20 @@ assets.russian = {
 	2: `Сайт познакомит Вас со спецификой работы компании "АльВиРити" в сфере веб-разработки, мобильного ПО и интернет-маркетинга.`,
 	3: `Сайт АльВиРити VR/AVR`,
 	4: `Представляем вашему вниманию второй сайт нашей ИТ компании.<br><br>
-	На сайте вы можете заказать комплекс услуг по созданию приложений для виртуальной и дополненной реальности.`,
+	На сайте Вы можете заказать комплекс услуг по разработке приложений для виртуальной и дополненной реальности.`,
 	5: `Сайт руководителя компании`,
 	6: `Сайт разработан для директора ИТ компании "АльВиРити" - Алексея Сергеевича Воробьева.`,
 	7: `Сайт компании «ТИС»`,
 	8: `Корпоративный сайт с элементами маркетплейса, разработан для ООО "ТИС".<br><br>
 	Торговый индустриальный сервис занимается производством качественных уплотнителей и пластинчатых теплообменников.`,
 	9: `Авиа-риэлтор, Черногория`,
-	10: `Cайт разрабатывался компанией, занимающейся оформлением вида на жительство и покупкой недвижимости в Черногории и Турции.`,
+	10: `Cайт разработан для компании, занимающейся оформлением вида на жительство и покупкой недвижимости в Черногории и Турции.`,
 	11: `Сайт фитнес-центра «NEO»`,
 	12: `Сайт для фитнес центра "NEO" разработан с целью замены администратора на терминал с программным обеспечением, 
 	автоматизирующим работу администратора. ПО оптимизировано для спортивных комплексов, отелей и прочих отраслей в сфере оказания услуг.`,
 	13: `Сайт по оказанию адвокатских услуг`,
-	14: `Сайт создан опытными дизайнерам для многоуважаемого адвоката Русяевой Ольги Александровны.`,
-	15: `Сайт «Центр кадастровой оценки<br>Липецкой области»`,
+	14: `Сайт создан опытными дизайнерами для многоуважаемого адвоката Русяевой Ольги Александровны.`,
+	15: `Сайт «Центр кадастровой оценки»<br>Липецкой области`,
 	16: `Сайт разработан для «Центра кадастровой оценки Липецкой области».`,
 	},
 }
@@ -175,22 +175,22 @@ assets.english = {
 	1: `Alvirity Studio website`,
 	2: `The site will introduce you to the specifics of AlViRiti's work in web development, mobile software and Internet marketing.`,
 	3: `Alvirity VR/AVR website`,
-	4: `We present to your attention the second site of our IT company.<br><br>
-	On the website you can order a set of virtual/augmented reality application development services.`,
+	4: `We present to Your attention the second site of our IT company.<br><br>
+	On the website You can order a set of virtual/augmented reality application development services.`,
 	5: `Company founder website`,
 	6: `Website was developed for the founder of the «AlViRity» company, Alexey Sergeevich Vorobyov.<br><br>
-	On the website you can get acquainted with his autobiography.`,
+	On the website You can get acquainted with his autobiography.`,
 	7: `«ТИС» Company website`,
 	8: `Corporate website with marketplace elements, designed for LLC "TIS".<br><br>
 	Trade Industrial Service is engaged in the production of quality seals and plate heat exchangers.`,
 	9: `Avia-realtor, Montenegro`,
-	10: `The site was developed by a company engaged in obtaining a residence permit and buying real estate in Montenegro and Turkey.`,
+	10: `The site was developed for a company engaged in obtaining a residence permit and buying real estate in Montenegro and Turkey.`,
 	11: `«NEO» Fitness center website`,
 	12: `Website for the fitness center "NEO" is designed to replace the administrator with a terminal with software that automates the work 
 	of the administrator. The software is optimized for sports complexes, hotels and other service industries.`,
 	13: `Lawyer services website`,
 	14: `The site was created by experienced designers for the esteemed lawyer Rusyaeva Olga Aleksandrovna.`,
-	15: `«Cadastral Valuation Center of the Lipetsk Region» Website`,
+	15: `«Cadastral Valuation Center» of the Lipetsk Region Website`,
 	16: `This website was developed for «Cadastral Valuation Center of the Lipetsk Region».`,
 	},
 }
